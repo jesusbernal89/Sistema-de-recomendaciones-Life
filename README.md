@@ -5,7 +5,7 @@ Para este modelo se usaron las herramientas de Microsoft Azure Machine Learning 
 
 Pasos para obtener el set de datos final:
 
---- Cargar los datasets necesarios en el datastore de Azureml studio. (Los nombres de los archivos vienen especificados en la documentación.)
+--- Cargar los datasets necesarios en el datastore de Azureml studio. (Los nombres de los archivos vienen especificados en la documentación.
 --- Guardar el notebook limpieza.ipynb y el script helper_functions.py en la sección Notebooks de Azureml Studio.
 --- Correr el notebook y esperar a que se genere el dataset final.
 
