@@ -5,8 +5,8 @@ Para este modelo se usaron las herramientas de Microsoft Azure Machine Learning 
 
 Pasos para obtener el set de datos final: 
 
---- Cargar los datasets necesarios en el datastore de Azureml studio. (Los nombres de los archivos vienen especificados en la documentación.
---- Guardar el notebook limpieza.ipynb y el script helper_functions.py en la sección Notebooks de Azureml Studio.
+--- Cargar los datasets necesarios en el datastore de Azureml studio. (Los nombres de los archivos vienen especificados en la documentación.   
+  --- Guardar el notebook limpieza.ipynb y el script helper_functions.py en la sección Notebooks de Azureml Studio.    
 --- Correr el notebook y esperar a que se genere el dataset final.
 
 Para correr el modelo es necesario seguir los pasos de la documentación 'Sistema de recomendaciones 2022.pdf', donde podremos encontrar la forma de configurar el espacio de trabajo de Azureml, construir el modelo y el deployment del mismo.
